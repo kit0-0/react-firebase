@@ -4,8 +4,8 @@
    -  "Imagine someone tricking a website into thinking you did something you didn't actually do."
 
 **2. Example:**
-   - Use a real-life analogy: "Imagine you're signing a contract and someone slips in an extra page without you noticing. That's like what CSRF does to websites."
-   - Show a simple scenario: "Let's say you're logged into a shopping website and click a link that secretly buys something without you knowing."
+   -  "Imagine you're signing a contract and someone slips in an extra page without you noticing. That's like what CSRF does to websites."
+   -  "Let's say you're logged into a shopping website and click a link that secretly buys something without you knowing."
 
 **3. How it Works:**
    -  "The attacker tricks you into clicking a link that sends a request to the website as if you did it yourself."
